@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/DuyanSV">
-	<img src="https://drive.google.com/file/d/1Az_bAfKAo3n2vKkgcCXjIC6YCW7_9NgY/view?usp=drivesdk" width = "200" alt="DuyanSV">
+	<img src="https://toigingiuvedep.vn/wp-content/uploads/2022/01/hinh-anh-avatar-tet-lam-dai-dien.jpg" width = "200" alt="DuyanSV">
 	</a>
 </p>
 
