@@ -9,9 +9,9 @@
 <h2 align="center">About me</h2>
 
 ```C#
-namespace TNT
+namespace Seven
 {
-    class ngoctienTNT
+    class duyanSV
     {
         static void Main(string[] args)
         {
@@ -38,7 +38,7 @@ namespace TNT
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
   </a>
   
-  <a href="https://dev.to/ngoctientnt">
+  <a href="https://dev.to/duyansv">
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 	
@@ -46,19 +46,19 @@ namespace TNT
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a>
   
-  <a href="mailto:ngoctienTNT.vn@gmail.com">
+  <a href="mailto:duyan17072002@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
   </a>
 	
-  <a href="https://www.instagram.com/ngoctien.tnt/">
+  <a href="https://www.instagram.com/anhngoc.an/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
   </a>
   
-  <a href="https://www.tiktok.com/@ngoctien_tnt/">
+  <a href="https://www.tiktok.com/@anhngoc.duyan/">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
   </a>
   
-  <a href="https://www.youtube.com/c/ThienLongTNT">
+  <a href="https://youtube.com/channel/UCIfnRzQcIXXfmeJ3BD2pD9A">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
   </a>
 </p>
@@ -136,21 +136,21 @@ namespace TNT
 
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{DuyanSV}/count.svg" alt="DuyanSV :: Visitor's Count" /></p>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=ngoctienTNT&theme=tokyonight&row=2&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=DuyanSV&theme=tokyonight&row=2&column=4">
 </p>
 
 ## <p align="center">Top langs :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyanSV&langs_count=10&theme=tokyonight&layout=compact" alt="DuyanSV :: Top Langs" /></p>
 
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DuyanSV&show_icons=true&theme=tokyonight" alt="DuyanSV :: Profile Stats" /></p>
 
 ## <p align="center">Repository pin 📌</p>
 
