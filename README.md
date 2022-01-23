@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/DuyanSV">
-	<img src="https://drive.google.com/file/d/1Az_bAfKAo3n2vKkgcCXjIC6YCW7_9NgY/view?usp=drivesdk" width = "200" alt="TNT">
+	<img src="https://drive.google.com/file/d/1Az_bAfKAo3n2vKkgcCXjIC6YCW7_9NgY/view?usp=drivesdk" width = "200" alt="DuyanSV">
 	</a>
 </p>
 
@@ -42,7 +42,7 @@ namespace Seven
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 	
-  <a href="https://www.linkedin.com/in/ngoctientnt/">
+  <a href="https://www.linkedin.com/mwlite/in/duy-an-87a167230">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a>
   
@@ -156,11 +156,11 @@ namespace Seven
 
 <p align="center">	
 <a href="https://github.com/ngoctienTNT/GiveLoveTNT">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="DuyanSV" />
 </a>
 	
 <a href="https://github.com/ngoctienTNT/TodoList2021">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="DuyanSV" />
 </a>
 </p>
 
@@ -177,7 +177,7 @@ namespace Seven
 ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=ngoctienTNT&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=DuyanSV&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
@@ -185,7 +185,7 @@ namespace Seven
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/DuyanSV/DuyanSV/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 <hr>
