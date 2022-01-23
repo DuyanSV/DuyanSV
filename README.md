@@ -21,7 +21,7 @@ namespace Seven
             string Address = "Tiền Giang, Việt Nam";
             string University = "Trường Cao Đẳng FPT Polytechnic";
             string Skills = "C, C++, Java, HTML,CSS, JavaScript, Bootstrap, SQL, JSP - Servlet";
-            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
+            string FamousQuotes = "Mày làm chưa chắc sẽ thành công, Nhưng mày không làm thì chắc chắn sẽ không bao giờ thành công!";
         }
     }
 }
