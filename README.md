@@ -169,8 +169,8 @@ namespace Nano
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DuyanSV&repo=restaurant&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 	
-<a href="https://github.com/ngoctienTNT/ngoctien.TNT">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
+<a href="https://github.com/DuyanSV/Bootstrap-Admin">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DuyanSV&repo=Bootstrap-Admin&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 </p>
 
