@@ -75,27 +75,27 @@ namespace Seven
 	 </a>
       </td>
       <td width="20%" align="center">
-	 <a href="https://docs.microsoft.com/dotnet/csharp/">
-		<span>𝗖#</span><br><br><br>
-		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+	 <a href="https://fullstack.edu.vn/courses/html-css">
+		<span>𝗛𝗧𝗠𝗟,𝗖𝗦𝗦</span><br><br><br>
+		<img height="64px" src="https://photoshopvip.net/news/mimage/html-css.png">
 	 </a>
       </td>
       <td width="20%" align="center">
-	<a href="https://docs.oracle.com/java/">
+	<a href="https://dev.java/learn/">
 		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
 		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
 	 </a>
       </td>
 	<td width="20%" align="center">
-		<a href="https://dart.dev/guides">
-        <span>𝗗𝗮𝗿𝘁</span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+		<a href="https://fullstack.edu.vn/courses/javascript-co-ban">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <img height="64px" src="https://pluspng.com/img-png/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png">
 		</a>
       </td>
       <td width="20%" align="center">
-	      <a href="https://docs.python.org/3/">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+	      <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/">
+        <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
 	      </a>
       </td>
     </tr>
@@ -107,21 +107,21 @@ namespace Seven
 		</a>
       </td>
 	<td width="20%" align="center">
-		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
+		<a href="https://www.eclipse.org/">
+        <span>𝗘𝗰𝗹𝗶𝗽𝘀𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">
 		</a>
       </td>
       <td width="20%" align="center">
-	      <a href="https://developer.android.com/docs">
-        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
+	      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
+        <span>𝗦𝗤𝗟 𝗦𝗲𝗿𝘃𝗲𝗿</span><br><br><br>
+        <img height="64px" src="https://aidanfinn.com/wp-content/uploads/2017/09/SQL-Server-Logo-620x264.png">
 	      </a>
       </td>
 	    <td width="20%" align="center">
-	<a href="https://docs.flutter.dev/">
-		<span>𝗙𝗹𝘂𝘁𝘁𝗲𝗿</span><br><br><br>
-		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
+	<a href="https://www.javatpoint.com/jsp-tutorial">
+		<span>𝗝𝗦𝗣 - 𝗦𝗲𝗿𝘃𝗹𝗲𝘁</span><br><br><br>
+		<img height="64px" src="https://image.flaticon.com/icons/png/512/28/28968.png">
 	</a>
       </td>
       <td width="20%" align="center">
