@@ -159,8 +159,8 @@ namespace Seven
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DuyanSV&repo=game-tournament&theme=tokyonight" alt="DuyanSV" />
 </a>
 	
-<a href="https://github.com/ngoctienTNT/TodoList2021">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="DuyanSV" />
+<a href="https://github.com/DuyanSV/view-tube">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DuyanSV&repo=view-tube&theme=tokyonight" alt="DuyanSV" />
 </a>
 </p>
 
