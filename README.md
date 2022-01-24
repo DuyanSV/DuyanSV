@@ -177,7 +177,7 @@ namespace Seven
 ## <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=ngoctienTNT&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=DuyanSV&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
@@ -193,4 +193,4 @@ namespace Seven
 
 ##
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://pa1.narvii.com/6786/a5f0de7f3a87dead1b76ee37614513bcdbe30047_hq.gif" alt="Goku" height="300" width="500"></p>
