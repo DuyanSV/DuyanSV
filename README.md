@@ -155,8 +155,8 @@ namespace Seven
 ## <p align="center">Repository pin 📌</p>
 
 <p align="center">	
-<a href="https://github.com/ngoctienTNT/GiveLoveTNT">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="DuyanSV" />
+<a href="https://github.com/DuyanSV/game-tournament">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DuyanSV&repo=game-tournament&theme=tokyonight" alt="DuyanSV" />
 </a>
 	
 <a href="https://github.com/ngoctienTNT/TodoList2021">
