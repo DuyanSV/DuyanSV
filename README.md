@@ -165,8 +165,8 @@ namespace Seven
 </p>
 
 <p align="center">	
-<a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
+<a href="https://github.com/DuyanSV/restaurant" margin="100">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=DuyanSV&repo=restaurant&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 	
 <a href="https://github.com/ngoctienTNT/ngoctien.TNT">
